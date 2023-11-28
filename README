@@ -1,0 +1,7 @@
+This program consists of three separate earthquake animations,
+each one displaying what happens during an earthquake of one of
+three magnitudes (3.0, 6.0, or 9.5). The user can click on any 
+of the buttons on the home screen to be directed to an 
+animation of an earthquake of the selected magnitude. 
+
+See the end of the project code for the sources of the information provided.
